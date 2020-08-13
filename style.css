@@ -1,0 +1,44 @@
+h1{
+  font-family: Lato;
+  background-color: #0bd82d;
+  color: white;
+}
+
+.header {
+  overflow: hidden;
+  background-color: #0bd82d;
+  padding: 20px 10px;
+  Color: White;
+  text-align: center;
+}
+
+.list {
+  list-style-type:none;
+}
+
+li {
+  margin-bottom: 1em;
+  text-align: center;
+}
+button {
+  border-radius: 4px;
+  background-color: #29214e;
+  border: none;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 16px;
+  padding: 12px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+td {
+  text-align: left;
+}
+
+.table-content {
+  background-color: lightsalmon;
+  text-align: center;
+
+}
